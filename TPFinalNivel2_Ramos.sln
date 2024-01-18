@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "presentacion", "presentacion\presentacion.csproj", "{FCA9125C-3B51-4EE8-99A7-977DBCF48E51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{98F64899-0845-4FAA-A95D-F82180B098B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{E1FDE826-884B-48FE-9ECC-87A2E3F18346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA9125C-3B51-4EE8-99A7-977DBCF48E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA9125C-3B51-4EE8-99A7-977DBCF48E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA9125C-3B51-4EE8-99A7-977DBCF48E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA9125C-3B51-4EE8-99A7-977DBCF48E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F64899-0845-4FAA-A95D-F82180B098B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F64899-0845-4FAA-A95D-F82180B098B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F64899-0845-4FAA-A95D-F82180B098B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F64899-0845-4FAA-A95D-F82180B098B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1FDE826-884B-48FE-9ECC-87A2E3F18346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1FDE826-884B-48FE-9ECC-87A2E3F18346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1FDE826-884B-48FE-9ECC-87A2E3F18346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1FDE826-884B-48FE-9ECC-87A2E3F18346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F56DB2EB-56CD-4216-A7BE-793635074076}
+	EndGlobalSection
+EndGlobal
